@@ -13,6 +13,7 @@
 
 int main()
 {
+    std::cout << "My first submission in github!" << std::endl;
     std::cout << "准备开始调试..." << std::endl;
 
     int sum = 0;
